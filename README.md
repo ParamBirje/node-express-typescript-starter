@@ -39,32 +39,10 @@ npm run dev
 
 or
 
-```
-yarn run dev
-```
-
-or
-
-```
-pnpm run dev
-```
+`yarn run dev` or `pnpm run dev`
 
 ### Building the project
 
-- Running this command will make all the Javascript build files inside the `/dist` directory
+- Running one of the following command will **make** all the Javascript build files inside the `/dist` directory
 
-```
-npm build
-```
-
-or
-
-```
-yarn build
-```
-
-or
-
-```
-pnpm build
-```
+`npm build` or `yarn build` or `pnpm build`
